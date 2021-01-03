@@ -8,7 +8,7 @@
 
 /* base styles & title */
 body{
-  background-color: aqua;
+  background-color: rgb(213, 248, 248);
   font-family: "Noto Serif";
   color: var(--secondary);
 }
